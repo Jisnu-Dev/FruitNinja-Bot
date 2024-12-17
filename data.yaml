@@ -1,0 +1,4 @@
+train: C:/Projects/FruitNinja/final dataset/images/train
+val: C:/Projects/FruitNinja/final dataset/images/val
+nc: 2  # Number of classes (adjust according to your dataset)
+names: ['fruit', 'bomb']  # List of class names
